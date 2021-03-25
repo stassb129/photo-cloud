@@ -1,0 +1,26 @@
+{
+  "name": "photo-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stassb129/photo-cloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stassb129/photo-cloud/issues"
+  },
+  "homepage": "https://github.com/stassb129/photo-cloud#readme",
+  "dependencies": {
+    "firebase": "^8.3.1",
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
